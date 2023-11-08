@@ -22,3 +22,6 @@ console.log(convertedCelcius);
   else {
     console.log("hot");
   }
+
+const randomNumber = Math.random() * 100;
+console.log(`Random Number: ${randomNumber}`);
